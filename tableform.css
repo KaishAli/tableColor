@@ -1,0 +1,23 @@
+body
+{
+    margin:30px;
+    background-color: #68f7be;
+    
+}
+
+h1{
+    font-size: 55px;
+    text-align: center;
+    color: rgb(237, 14, 245);
+    font-family: 'Puppies Play', cursive;
+    background-color: rgb(145, 182, 182);
+}
+td:nth-child(2n+1){
+    color: rgb(94, 78, 16);
+}
+td:nth-child(even){
+    color: crimson;
+}
+th:nth-child(n){
+    color:blueviolet ;
+}
